@@ -15,7 +15,7 @@ This is a simple Python-based system that allows users to log and retrieve their
 - Separate files maintained for each user
 - Menu-driven command-line interface
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python 3.x
 - File Handling
